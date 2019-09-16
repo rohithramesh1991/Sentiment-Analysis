@@ -4,3 +4,4 @@ Types of Sentiment Analysis:
 There are many types and flavours of sentiment analysis and sentiment analysis tools range from systems that focus on polarity (positive, negative, neutral) to systems that detect feelings and emotions (angry, happy, sad, etc) or identify intentions (e.g. interested v. not interested). 
  
 Here in this project, we will be looking at target variable with binary classification. The project is about interpreting a hotel review as good or bad, based on the customer experience.
+Please go through the comments section of the code file for better understanding.
