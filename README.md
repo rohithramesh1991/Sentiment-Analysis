@@ -8,11 +8,11 @@ There are many types and flavours of sentiment analysis and sentiment analysis t
 Here in this project, we will be looking at target variable with binary classification. The project is about interpreting a hotel review as good or bad, based on the customer experience.
 Please go through the comments section of the code file for better understanding.
 
-This Project has been modelled on 4 different types algorithms and there corresponding accuracy are also checked.
+This Project has been modelled on 4 different types algorithms and their corresponding accuracy are also checked.
 1.	Logistic Regression
 2.	Random Forest
 3.	Naïve Bayes
 4.	SVM (Support Vector Machine)
 
-The model is selected based on the accuracy and classification report such as precision , recall , F1 score and also AUC(Area under the curve)
+The Best model is selected based on the accuracy , precision , recall , F1 score which are obtained form classification report and also AUC(Area under the curve)
 Out of these models, Logistic Regression and SVM with Linear Kernel and regularization parameter (gamma) of 0.001produced an accuracy of about 89%.
